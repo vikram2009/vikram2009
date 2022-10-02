@@ -1,4 +1,4 @@
-Hey I'am Vikram Srinivas
+## Hey I'am Vikram Srinivas
 - 🔨 Building the future
 - 🧑‍💻 Full Stack Developer
 - 🦀 Rustacean
