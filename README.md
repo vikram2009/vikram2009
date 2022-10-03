@@ -1,6 +1,6 @@
 ## Hey I'am Vikram Srinivas 
 13, building
-aka _Toxic_Coder
+ aka  _Toxic_Coder
 
 - 🔨 Building the future
 - 🧑‍💻 Full Stack Developer
