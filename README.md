@@ -7,7 +7,7 @@
 - 🦀 Rustacean
 - 🔗 https://vikramsrinivas.me
 
-![banner](https://pbs.twimg.com/profile_banners/1558230077409636352/1660457309/1500x500)
+![banner](https://pbs.twimg.com/profile_banners/1558230077409636352/1664958694/1500x500)
 
 
 <!---
